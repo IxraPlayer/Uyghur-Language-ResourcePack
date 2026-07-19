@@ -1,2 +1,0 @@
-# Uyghur-Language-ResourcePack
--
