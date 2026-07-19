@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "min_format": [84, 0],
+    "max_format": [87, 0],
+    "description": "§6§lUyghur Til Paket§r\n§eئۇيغۇرچە تىل قوشۇمچىسى"
+  },
+  "language": {
+    "ug_lt": {
+      "name": "Uyghurche",
+      "region": "Latin",
+      "bidirectional": false
+    },
+    "ug_ar": {
+      "name": "ئۇيغۇرچە",
+      "region": "Arabic",
+      "bidirectional": true
+    }
+  }
+}
