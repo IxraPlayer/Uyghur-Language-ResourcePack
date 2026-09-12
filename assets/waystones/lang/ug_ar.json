@@ -121,7 +121,7 @@
   "config.waystones.title": "يول تېشىلىرى",
   "config.waystones.xpCost": "تەجرىبە باھاسى تاللانمىلىرى",
   "config.waystones.xpCost.inverseXpCost": "تەرسكەرىچىلەپ تەجرىبە باھاسى",
-  "config.waystones.xpCost.inverseXpCost.tooltip": "تەجرىبە باھاسى تەرسكەرىچىلەپ ھېسابلانسۇن دېسەڭىز راст قىلىپ قويۇڭ, يەنى مەساپسە قىسقا بولسا باھا شۇنچە قىممەت بولىدۇ. قىسقا مەساپىلىك سەپھەرلەرنى چەكلەشكە ئىشلىتىلىشى مۇمكىن.",
+  "config.waystones.xpCost.inverseXpCost.tooltip": "تەجرىبە باھاسى تەرسكەرىچىلەپ ھېسابلانسۇن دېسەڭىز راست قىلىپ قويۇڭ, يەنى مەساپسە قىسقا بولسا باھا شۇنچە قىممەت بولىدۇ. قىسقا مەساپىلىك سەپھەرلەرنى چەكلەشكە ئىشلىتىلىشى مۇمكىن.",
   "config.waystones.xpCost.blocksPerXpLevel": "ھەر تەجرىبە دەرىجىسىگە بلوك سانى",
   "config.waystones.xpCost.blocksPerXpLevel.tooltip": "ھەر تەجرىبە دەرىجىسى تەلىپىگە توغرا كېلىدىغان بلوك سانى. 500 قىلىپ قويۇلسا, 1000 بلوك سەپھەرنىڭ ئاساسىي باھاسى 2 دەرىجە بولىدۇ.",
   "config.waystones.xpCost.minimumBaseXpCost": "ئەڭ ئاز ئاساسىي تەجرىبە باھاسى",

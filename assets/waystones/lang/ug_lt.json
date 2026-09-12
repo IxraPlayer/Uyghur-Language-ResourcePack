@@ -121,7 +121,7 @@
   "config.waystones.title": "Yol Téshiliri",
   "config.waystones.xpCost": "Tejribe Bahasi Tallanmiliri",
   "config.waystones.xpCost.inverseXpCost": "Terskerichilep Tejribe Bahasi",
-  "config.waystones.xpCost.inverseXpCost.tooltip": "Tejribe bahasi terskerichilep hésablansun désengiz raст qilip qoyung, yeni mesapse qisqa bolsa baha shunche qimmet bolidu. Qisqa mesapilik sepherlerni chekleshke ishlitilishi mumkin.",
+  "config.waystones.xpCost.inverseXpCost.tooltip": "Tejribe bahasi terskerichilep hésablansun désengiz rast qilip qoyung, yeni mesapse qisqa bolsa baha shunche qimmet bolidu. Qisqa mesapilik sepherlerni chekleshke ishlitilishi mumkin.",
   "config.waystones.xpCost.blocksPerXpLevel": "Her Tejribe Derijisige Blok Sani",
   "config.waystones.xpCost.blocksPerXpLevel.tooltip": "Her tejribe derijisi telipige toghra kélidighan blok sani. 500 qilip qoyulsa, 1000 blok sepherning asasiy bahasi 2 derije bolidu.",
   "config.waystones.xpCost.minimumBaseXpCost": "Eng Az Asasiy Tejribe Bahasi",
