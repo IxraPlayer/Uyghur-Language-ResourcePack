@@ -6671,7 +6671,7 @@
   "title.singleplayer": "يەككە ئويۇنچى",
   "translation.test.args": "%s %s",
   "translation.test.complex": "ئالدى, %s%2$s قايتا %s ۋە %1$s ئاخىرىدا %s ۋە شۇنىڭدەك قايتا %1$s!",
-  "translation.test.escape": "%%س %%%s %%%%س %%%%%s",
+  "translation.test.escape": "%%s %%%s %%%%s %%%%%s",
   "translation.test.invalid": "سالام %",
   "translation.test.invalid2": "سالام %s",
   "translation.test.none": "سالام, دۇنيا!",
