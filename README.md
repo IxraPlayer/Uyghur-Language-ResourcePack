@@ -17,7 +17,7 @@
 - **Uyghurche (Latin)** — `ug_lt`, for players who read Uyghur in Latin script
 - **ئۇيغۇرچە (Arabic)** — `ug_ar`, the traditional Uyghur Arabic script, fully right-to-left compatible
 
-**Complete coverage** — every menu, item, block, advancement, subtitle, and message in the game has been translated (6,700+ entries per language)
+**Complete coverage** — every menu, item, block, advancement, subtitle, and message in the game has been translated (8,500+ entries per language)
 
 Carefully checked for consistency: keyboard key names, painting titles, and proper nouns (like mob names) follow the same convention throughout the pack
 
@@ -29,7 +29,7 @@ Actively maintained and checked against the latest game updates
 
 <h1 align="center">Supported Minecraft Versions</h1>
 
-<p align="center">This pack targets Minecraft <strong>26.1, 26.1.2, and 26.2</strong>.</p>
+<p align="center">This pack targets Minecraft <strong>26.1, 26.1.2, 26.2, and 26.3</strong>.</p>
 
 > #### If Minecraft shows a "this pack may not work correctly" warning on a different version, the pack will usually still load and work — that warning just means the version wasn't explicitly tested.
 
