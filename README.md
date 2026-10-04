@@ -1,3 +1,5 @@
+<p align="center"> <img width="380" height="380" alt="pack" src="https://github.com/user-attachments/assets/cbf00a4d-3537-4803-bc16-c331e9e8fbeb" /> </p>
+
 <h1 align="center">Uyghur Language Pack | ئۇيغۇرچە تىل قوشۇمچىسى</h1>
 
 <p align="center">A complete Uyghur translation of Minecraft's in-game text — bringing the full game interface to the Uyghur language, in <strong>both writing systems</strong>.</p>
